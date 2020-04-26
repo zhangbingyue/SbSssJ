@@ -1,0 +1,7 @@
+
+server:
+  port: 8099
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+
